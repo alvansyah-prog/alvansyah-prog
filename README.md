@@ -1,4 +1,4 @@
-<img src='banner.jpg' width='250' align="right">
+<img src='banner.jpg' width='350' align="right">
 
   - 👋 Hi I'm **Alvansyah-Prog**   
   - ❤ I love to learn new **Stuff**
