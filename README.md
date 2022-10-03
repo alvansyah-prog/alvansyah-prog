@@ -1,4 +1,4 @@
-<img src='leftbanner.jpg' height = '400' width='500' align="right">
+<img src='leftbanner.jpg' height = '700' width='250' align="right">
 
   - 👋 Hi I'm **Alvansyah-Prog**   
   - ❤ I love to learn new **Stuff**
