@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Alvansyah Achmad Givari Herman — Software Engineer &amp; Full Stack Developer">
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d9dee7"/></pattern>
+  <radialGradient id="glow" cx="0.78" cy="0.35" r="0.6"><stop offset="0" stop-color="#4d7c0f" stop-opacity="0.10"/><stop offset="1" stop-color="#4d7c0f" stop-opacity="0"/></radialGradient>
+  <clipPath id="frame"><rect width="1200" height="420" rx="18"/></clipPath>
+</defs>
+<style>
+  .sans { font-family: 'Space Grotesk','Segoe UI',Ubuntu,Helvetica,Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+  .tw { animation: tw 3.6s ease-in-out infinite; opacity: .15; }
+  @keyframes tw { 50% { opacity: .9; } }
+  .up { opacity: 0; animation: up .9s cubic-bezier(.16,1,.3,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes pulse { 50% { opacity: .35; transform: scale(.7); } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .tw, .up, .pulse, .blink { animation: none; opacity: 1; } }
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="420" fill="#f5f7fa"/>
+  <rect width="1200" height="420" fill="url(#grid)" opacity=".7"/>
+  <rect width="1200" height="420" fill="url(#glow)"/>
+  <circle cx="396" cy="77" r="1" fill="#4d7c0f" class="tw" style="animation-delay:2.14s"/><circle cx="444" cy="42" r="1.3" fill="#4d7c0f" class="tw" style="animation-delay:1.73s"/><circle cx="101" cy="54" r="2.2" fill="#4d7c0f" class="tw" style="animation-delay:2.26s"/><circle cx="696" cy="44" r="2.2" fill="#4d7c0f" class="tw" style="animation-delay:0.88s"/><circle cx="666" cy="71" r="2.2" fill="#4d7c0f" class="tw" style="animation-delay:0.47s"/><circle cx="378" cy="330" r="1.3" fill="#4d7c0f" class="tw" style="animation-delay:2.28s"/><circle cx="238" cy="57" r="1" fill="#0b0d12" class="tw" style="animation-delay:2.48s"/><circle cx="596" cy="222" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:3.69s"/><circle cx="439" cy="114" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:0.98s"/><circle cx="686" cy="220" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:1.15s"/><circle cx="1157" cy="65" r="2.2" fill="#4d7c0f" class="tw" style="animation-delay:1.37s"/><circle cx="1136" cy="49" r="1.6" fill="#4d7c0f" class="tw" style="animation-delay:1.40s"/><circle cx="596" cy="323" r="1" fill="#0b0d12" class="tw" style="animation-delay:3.78s"/><circle cx="570" cy="272" r="1" fill="#0b0d12" class="tw" style="animation-delay:1.24s"/><circle cx="537" cy="292" r="1.6" fill="#4d7c0f" class="tw" style="animation-delay:1.85s"/><circle cx="215" cy="64" r="1" fill="#4d7c0f" class="tw" style="animation-delay:1.15s"/><circle cx="213" cy="173" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:3.28s"/><circle cx="502" cy="156" r="2.2" fill="#0b0d12" class="tw" style="animation-delay:0.60s"/><circle cx="224" cy="108" r="1.3" fill="#4d7c0f" class="tw" style="animation-delay:3.32s"/><circle cx="232" cy="127" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:1.48s"/><circle cx="677" cy="382" r="1" fill="#0b0d12" class="tw" style="animation-delay:3.48s"/><circle cx="669" cy="171" r="2.2" fill="#4d7c0f" class="tw" style="animation-delay:2.54s"/><circle cx="92" cy="46" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:0.44s"/><circle cx="717" cy="59" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:3.80s"/><circle cx="732" cy="47" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:0.59s"/><circle cx="313" cy="152" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:0.46s"/><circle cx="586" cy="392" r="2.2" fill="#0b0d12" class="tw" style="animation-delay:0.34s"/><circle cx="139" cy="150" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:2.77s"/><circle cx="619" cy="98" r="1.6" fill="#4d7c0f" class="tw" style="animation-delay:2.17s"/><circle cx="51" cy="221" r="1" fill="#0b0d12" class="tw" style="animation-delay:1.04s"/><circle cx="445" cy="83" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:3.12s"/><circle cx="402" cy="105" r="1.3" fill="#0b0d12" class="tw" style="animation-delay:3.27s"/><circle cx="620" cy="155" r="1" fill="#0b0d12" class="tw" style="animation-delay:3.16s"/><circle cx="568" cy="94" r="1.6" fill="#0b0d12" class="tw" style="animation-delay:3.75s"/><circle cx="1166" cy="383" r="1.6" fill="#4d7c0f" class="tw" style="animation-delay:0.41s"/><circle cx="565" cy="148" r="2.2" fill="#0b0d12" class="tw" style="animation-delay:3.60s"/>
+
+  <g class="up" style="animation-delay:.05s">
+    <circle cx="72" cy="81" r="5" fill="#4d7c0f" class="pulse"/>
+    <text x="88" y="86" class="mono" font-size="14" letter-spacing="2.5" fill="#4d7c0f">AVAILABLE FOR NEW PROJECTS</text>
+  </g>
+  <text x="62" y="162" class="sans up" font-size="68" font-weight="700" letter-spacing="-2" fill="#0b0d12" style="animation-delay:.15s">Alvansyah</text>
+  <text x="62" y="226" class="sans up" font-size="46" font-weight="700" letter-spacing="-1.4" fill="#4d7c0f" style="animation-delay:.25s">Achmad Givari Herman</text>
+  <text x="64" y="274" class="sans up" font-size="22" fill="#475066" style="animation-delay:.35s">Software Engineer &amp; Full Stack Developer</text>
+  <text x="64" y="318" class="mono up" font-size="14" letter-spacing="1" fill="#7a8399" style="animation-delay:.45s">LARAVEL · GOLANG · REACT · VUE · MYSQL</text>
+  <g class="up" style="animation-delay:.55s">
+    <rect x="64" y="342" width="1" height="1" fill="none"/>
+    <text x="64" y="364" class="mono" font-size="14" fill="#7a8399">📍 Surabaya, Indonesia   ↗ <tspan fill="#0b0d12">portfolio-giv.vercel.app</tspan></text>
+  </g>
+
+  <g class="up" style="animation-delay:.3s">
+    <rect x="700" y="70" width="440" height="290" rx="14" fill="#ffffff" stroke="#d9dee7"/>
+    <path d="M700 108 H1140" stroke="#d9dee7"/>
+    <circle cx="722" cy="89" r="5" fill="#d9dee7"/><circle cx="740" cy="89" r="5" fill="#d9dee7"/><circle cx="758" cy="89" r="5" fill="#d9dee7"/>
+    <text x="920" y="94" text-anchor="middle" class="mono" font-size="12" fill="#7a8399">~/alvansyah — zsh</text>
+    <clipPath id="t0"><rect x="722" y="136" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="0.60s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="152" clip-path="url(#t0)" class="mono" font-size="15"><tspan fill="#4d7c0f">$</tspan> <tspan fill="#0b0d12">whoami</tspan></text><clipPath id="t1"><rect x="722" y="166" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="1.15s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="182" clip-path="url(#t1)" class="mono" font-size="15"><tspan fill="#475066">full stack developer · software engineer</tspan></text><clipPath id="t2"><rect x="722" y="196" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="1.70s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="212" clip-path="url(#t2)" class="mono" font-size="15"><tspan fill="#4d7c0f">$</tspan> <tspan fill="#0b0d12">cat stack.txt</tspan></text><clipPath id="t3"><rect x="722" y="226" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="2.25s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="242" clip-path="url(#t3)" class="mono" font-size="15"><tspan fill="#475066">laravel  golang  react  vue  mysql</tspan></text><clipPath id="t4"><rect x="722" y="256" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="2.80s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="272" clip-path="url(#t4)" class="mono" font-size="15"><tspan fill="#4d7c0f">$</tspan> <tspan fill="#0b0d12">npm run build &amp;&amp; deploy</tspan></text><clipPath id="t5"><rect x="722" y="286" width="0" height="22"><animate attributeName="width" from="0" to="410" begin="3.35s" dur="0.5s" fill="freeze"/></rect></clipPath><text x="724" y="302" clip-path="url(#t5)" class="mono" font-size="15"><tspan fill="#4d7c0f">✓ compiled  ✓ tests passed  ✓ live</tspan></text><text x="724" y="332" class="mono" font-size="15" fill="#4d7c0f" opacity="0">&gt; <tspan class="blink">▋</tspan><animate attributeName="opacity" from="0" to="1" begin="3.90s" dur="0.2s" fill="freeze"/></text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="419" rx="18" fill="none" stroke="#d9dee7"/>
+</g>
+</svg>
