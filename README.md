@@ -60,6 +60,18 @@ Results-driven **Software Engineer & Full Stack Developer** from Surabaya, build
 
 ### `05` — GitHub activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-green.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvansyah-prog/alvansyah-prog/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvansyah-prog/alvansyah-prog/output/snake-light.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/alvansyah-prog/alvansyah-prog/output/snake-dark.svg" width="100%" />
+</picture>
+
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alvansyah-prog&show_icons=true&hide_rank=false&border_radius=14&include_all_commits=true&count_private=true&bg_color=07080c&title_color=c6ff3d&text_color=e8ecf4&icon_color=c6ff3d&border_color=1e222c" />
